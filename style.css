@@ -377,8 +377,8 @@ header.sticky {
   transform: translateX(5px);
 }
 .contact-icons i {
-  height: 45px;
-  width: 45px;
+  height: 38px;
+  width: 38px;
   background: var(--main-color);
   color: var(--text-color);
   font-size: 22px;
