@@ -492,7 +492,7 @@ form textarea {
         max-width: 100%;
     }
     .contact{
-        grid-template-columns: 2fr;
+        grid-template-columns: 1fr;
     }
 }
 
